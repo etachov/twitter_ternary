@@ -1,2 +1,2 @@
 # twitter_ternary
-Using ternary plots diagnois tweet interactions
+Using ternary plots diagnosis tweet interactions
