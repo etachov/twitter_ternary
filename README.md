@@ -7,7 +7,12 @@
 You can download and run the app using with a few lines of code: 
 
 ```R
+# install these libraries before runGitHub
 library(shiny)
+library(dplyr)
+library(markdown)
+library(ggtern)
+library(Cairo)
 
 runGitHub("twitter_ternary", "etachov") 
 ```
