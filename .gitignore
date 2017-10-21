@@ -1,0 +1,7 @@
+# R-related files
+.Rhistory
+.Rapp.history
+.RData
+
+# Other
+.DS_Store
